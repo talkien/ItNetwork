@@ -1,7 +1,7 @@
 # ItNetwork
  Projekt k závěrečné zkoušce - Programátor WWW aplikací - Karel Machovec
 
- '''
+
  Program "Evidence pojištěných"
  projekt k závěřečné zkoušce - rekvalifikační kurz Programátor WWW aplikací (itnetwork.cz)
  Autor: Karel Machovec
@@ -14,4 +14,5 @@
  2. Vypiš všechny osoby  - Vypíše celý seznam uložených osob.
  3. Vyhledej osobu       - Vyhledá osobu v seznamu podle jména a/nebo příjmení (vyžadována přesná shoda)
  4. Konec                - ukončí program
- '''
+
+Program se spouští souborem main.py
